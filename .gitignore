@@ -1,0 +1,10 @@
+## How to write gitignore file: http://www.sujee.net/tech/articles/gitignore/
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+node_modules/*
+npm-debug.log
